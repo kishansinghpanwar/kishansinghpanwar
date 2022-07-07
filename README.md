@@ -19,4 +19,4 @@ You can click the Preview link to take a look at your changes.
 </p>
 <br>
 
-![Kishan's Activity Graph](https://activity-graph.herokuapp.com/graph?username=kishansinghpanwar&custom_title=Kishan%27s%20Contribution%20Graph&bg_color=FFFFFF&line=4F94EF&point=FB8C01&color=000000)
+![Kishan's Activity Graph](https://activity-graph.herokuapp.com/graph?username=kishansinghpanwar&custom_title=Kishan%27s%20Contribution%20Graph&bg_color=FFFFFF&line=4F94EF&point=000000&color=000000)
