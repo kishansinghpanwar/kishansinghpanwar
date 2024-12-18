@@ -15,6 +15,5 @@ You can click the Preview link to take a look at your changes.
 <br/>
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=kishansinghpanwar&show_icons=true&hide_border=false" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=kishansinghpanwar&theme=blueberry&background=FFFFFF&sideLabels=808080&currStreakNum=3E3E3E&sideNums=000000&ring=4F94EF&dates=000000&currStreakLabel=4F94EF" />
 </p>
 <br>
