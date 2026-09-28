@@ -2,7 +2,7 @@
 
 👋 Hi, I’m Kishan Singh
 
-* Mobile Developer with 8+ years of experience specializing in Android (Java, Kotlin) and cross-platform Flutter development.
+* Mobile Developer with 9+ years of experience specializing in Android (Java, Kotlin) and cross-platform Flutter development.
 * Expertise spans the entire Android lifecycle, from deep AOSP integration and platform app development to UI/UX design and complex API integrations.
 * Proven track record of delivering high-quality mobile solutions, whether working independently, collaborating within a team, or leading development efforts.  I thrive on tackling challenging technical problems.
 
